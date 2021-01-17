@@ -1,4 +1,8 @@
 # Yandex Translate API - Python - Pyqt5 Gui Uygulaması
+### Yandex Translate Free Api artık hizmet vermediğinden uygulamanın çalışan sayfası yoktur.
+https://yandex.com/dev/translate/doc/dg/concepts/about.html
+
+---
 
 Yandex Translate Api kullanılarak, internet bağlantısı aracılığıyla 
 Türkçe - İngilizce çeviri yapan bir pyqt5 - gui uygulamasıdır. 
